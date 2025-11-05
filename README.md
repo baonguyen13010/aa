@@ -1,6 +1,8 @@
 # Bao's PC building website
 
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head> <style>
   body {
     background-color: #000;
     color: #0f0;
@@ -22,10 +24,6 @@
     border: 1px solid #0f0;
   }
 </style>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
   <meta charset="UTF-8">
   <title>PC Builder - Home</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
